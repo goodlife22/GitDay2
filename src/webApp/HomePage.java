@@ -11,4 +11,6 @@ public class HomePage {
     // trying to make same changes
 
     // logo
+
+    // add more things
 }
