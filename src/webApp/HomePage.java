@@ -9,4 +9,6 @@ public class HomePage {
     // this is the menu navigation
 
     // trying to make same changes
+
+    // logo
 }
